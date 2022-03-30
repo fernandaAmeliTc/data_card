@@ -1,0 +1,73 @@
+[
+    {
+        "banner_img" : "img/wetransfer_gettyimages/popup.jpg",
+        "locate-img" : "img/bxs-location-plus.svg",
+        "departamento":"Lima",
+        "distrito":"San Borja",
+        "nombre_tienda":"Tienda de Ropa Yañuy",
+        "parrafo":"Pedidos a medida, incluye servicio de traslado",
+        "description" : "Hola! Soy Maria Teresa, confeccionista de profesión y hace poco me decidí por diseñar ropa a medida. Las hago con mucha dedicación y cariño. Los invito a ver mi colección. ",
+        "img-wsp":"img/bxl-whatsapp(1).svg",
+        "wsp_numero" :"987654321",
+        "start_date" : "15 de abril de 1989",
+        "ruc":"201234567989",
+        "li_uno_popup":"Prendas para hombre, mujer, niño.",
+        "li_dos_popup":"Pedidos para eventos especiales",
+        "li_tres_popup":"Sin costo de envio",
+        "li_uno_card":"Arreglos de prendas",
+        "li_dos_card":"Confección de prendas de vestir",
+        "img_instagram":"img/bxl-instagram.svg",
+        "img_facebook":"img/bxl-facebook.svg",
+        "img_warring":"img/bx-error-circle.svg",
+        "texto_warring":"Prima AFP ofrece este espacio digital como punto de contacto entre emprendedores y comprandores, no somos responsables de la calidad de los productos y/o servicios que se ofrecen,ni de las transacciones de compra y venta."
+    },
+
+    {
+        "banner_img" : "img/wetransfer_gettyimages/gettyimages-1293366109-2048x2048.jpg",
+        "locate-img" : "img/bxs-location-plus.svg",
+        "departamento":"Lima",
+        "distrito":"San Borja",
+        "nombre_tienda":"Tienda de Ropa Yañuy",
+        "parrafo":"Pedidos a medida, incluye servicio de traslado",
+        "description" : "Hola! Soy Maria Teresa, confeccionista de profesión y hace poco me decidí por diseñar ropa a medida. Las hago con mucha dedicación y cariño. Los invito a ver mi colección. ",
+        "img-wsp":"img/bxl-whatsapp(1).svg",
+        "wsp_numero" :"987654321",
+        "start_date" : "15 de abril de 1989",
+        "ruc":"201234567989",
+        "li_uno_popup":"Prendas para hombre, mujer, niño.",
+        "li_dos_popup":"Pedidos para eventos especiales",
+        "li_tres_popup":"Sin costo de envio",
+        "li_uno_card":"Arreglos de prendas",
+        "li_dos_card":"Confección de prendas de vestir",
+        "img_instagram":"img/bxl-instagram.svg",
+        "img_facebook":"img/bxl-facebook.svg",
+        "img_warring":"img/bx-error-circle.svg",
+        "texto_warring":"Prima AFP ofrece este espacio digital como punto de contacto entre emprendedores y comprandores, no somos responsables de la calidad de los productos y/o servicios que se ofrecen,ni de las transacciones de compra y venta."
+    },
+    {
+        "banner_img" : "img/wetransfer_gettyimages/gettyimages-854321536-2048x2048.jpg",
+        "locate-img" : "img/bxs-location-plus.svg",
+        "departamento":"Lima",
+        "distrito":"San Borja",
+        "nombre_tienda":"Tienda de Ropa Yañuy",
+        "parrafo":"Pedidos a medida, incluye servicio de traslado",
+        "description" : "Hola! Soy Maria Teresa, confeccionista de profesión y hace poco me decidí por diseñar ropa a medida. Las hago con mucha dedicación y cariño. Los invito a ver mi colección. ",
+        "img-wsp":"img/bxl-whatsapp(1).svg",
+        "wsp_numero" :"987654321",
+        "start_date" : "15 de abril de 1989",
+        "ruc":"201234567989",
+        "li_uno_popup":"Prendas para hombre, mujer, niño.",
+        "li_dos_popup":"Pedidos para eventos especiales",
+        "li_tres_popup":"Sin costo de envio",
+        "li_uno_card":"Arreglos de prendas",
+        "li_dos_card":"Confección de prendas de vestir",
+        "img_instagram":"img/bxl-instagram.svg",
+        "img_facebook":"img/bxl-facebook.svg",
+        "img_warring":"img/bx-error-circle.svg",
+        "texto_warring":"Prima AFP ofrece este espacio digital como punto de contacto entre emprendedores y comprandores, no somos responsables de la calidad de los productos y/o servicios que se ofrecen,ni de las transacciones de compra y venta."
+    }
+    
+    
+    
+
+]
